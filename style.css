@@ -1,3 +1,44 @@
 /* index.html css styling */
 
+* {
+	/* index.html css styling */
+	font-family: Helvetica, Arial, Verdana;
+	background-color: hsl(194, 32%, 64%);
+}
+
+.title {
+	/* center text & image in title div */
+	text-align: center;
+}
+
+.odin-logo {
+	/* change odin logo size */
+	height: auto;
+	width: 100px;
+}
+
+ul {
+	/* hide unsorted list bullet points */
+  	list-style-type: none;
+}
+
+.devil-emoji {
+	height: auto;
+	width: 25px;
+}
+
+.chicken-emoji {
+	height: auto;
+	width: 25px;
+}
+
+.spaghetti-emoji {
+	height: auto;
+	width: 25px;
+}
+
+
+
+
+
 
